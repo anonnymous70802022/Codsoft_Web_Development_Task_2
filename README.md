@@ -1,2 +1,2 @@
-# Codsoft_Web_Development_Task_2
+# Codsoft_Web_Development_Task_2_Portfolio
 Codsoft_Web_Development_Task_2_Portfolio
